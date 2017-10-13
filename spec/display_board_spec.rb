@@ -184,7 +184,7 @@ board = [" O ", " O ", " O ", " O ", " O ", " O ", " O ", " O ", " O "]
       # example's situation.
 
       # *** Comment the line below by adding a # at the line start ***
-      expect(true).to be(true)
+      #expect(true).to be(true)
     end
   end
 end
